@@ -1,0 +1,205 @@
+body {
+  color: black;
+  font-family: 'IBM Plex Serif', serif;
+  background-color: #1e212d
+}
+
+img {
+  width: 100%;
+}
+
+.main-div-home {
+  height: 34.375rem;
+}
+
+.intro {
+  color: White;
+  width: 100%;
+  font-weight: bold;
+  margin: 0;
+  height: 34.375rem;
+}
+
+.headone-format {
+  color: White;
+  width: 18.75rem;
+  position: relative;
+  bottom: 24.375rem;
+  left: 6.25rem;
+}
+
+.headtwo-format {
+  width: 31.25rem;
+  position: relative;
+  bottom: 23.75rem;
+  left: 6.25rem;
+}
+
+.btn-position {
+  position: relative;
+  bottom: 21.875rem;
+  left: 6.25rem;
+}
+
+.btn:hover {
+  background: #1f35a3;
+  text-decoration: none;
+  border: none;
+}
+
+
+/* home ends here */
+
+/* Below code for about section */
+.about-first-div {
+  color: White;
+  position: relative;
+  bottom: 500px;
+  left: 100px;
+  width: 450px;
+}
+
+.about-second-div {
+  color: White;
+  position: relative;
+  bottom: 770px;
+  left: 730px;
+  width: 450px;
+}
+
+.ab {
+  margin-right: 100px;
+}
+
+p {
+  font-size: 1em;
+  font-family: Arial;
+  font-weight: normal;
+  line-height: 2em;
+  margin-top: 20px;
+}
+
+/* services */
+.services-head {
+  color: White;
+  text-align: center;
+  margin-top: 100px;
+}
+
+.left-div-services {
+  color: White;
+  position: relative;
+  bottom: 500px;
+  left: 100px;
+  width: 500px;
+}
+
+.right-div-services {
+  color: White;
+  position: relative;
+  bottom: 800px;
+  left: 700px;
+  width: 500px;
+}
+
+.icon-size {
+  height: 25px;
+  width: 25px;
+  float: left;
+  margin-right: 25px;
+  margin-top: 5px;
+}
+
+.inner-div {
+  box-shadow: 5px 5px 5px grey;
+}
+
+a {
+  color: White;
+  font-family: 'IBM Plex Serif', serif;
+  text-decoration: none;
+}
+
+/* End of services
+/* PORTFOLIO begin */
+.portfolio-head {
+  color: White;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.img-center-div {
+  text-align: center;
+}
+
+.img-first-div {
+  margin-left: 42px;
+}
+
+.portfolio-img {
+  width: 250px;
+  height: 250px;
+  margin: 50px;
+  border: 3px solid grey;
+  box-shadow: 5px 5px 5px grey;
+}
+
+.portfolio-top-div {
+  margin-top: -550px;
+}
+
+/* portfolio end */
+/* TEAM begin */
+.team-head {
+  font-weight: bolder;
+}
+
+.team-img {
+  display: inline;
+  height: 200px;
+  width: 200px;
+  border: 3px solid grey;
+  box-shadow: 5px 5px 10px grey;
+  margin: 50px;
+}
+
+.display {
+  display: inline;
+}
+
+.img-div {
+  text-align: center;
+  margin-left: 60px;
+}
+
+.team-head {
+  text-align: center;
+  color: White;
+  width: 80%;
+  margin: 50px auto 50px;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+/* contact */
+.contact-head {
+  color: White;
+  text-align: center;
+  width: 80%;
+  margin: 150px auto 50px;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+.social-icon {
+  text-align: center;
+  background-color: White;
+}
+
+svg {
+  margin: 30px 100px;
+}
+
+.social-link {
+  color: blue;
+}
